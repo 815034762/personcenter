@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">我的应用</string>
+    <string name="formatStr">我是来自%1$s点击事件，现在身处%2$s今年%3$d啦</string>
+    <string name="title_activity_navigation">MainActivity</string>
+    <string name="title_home">每天一笑</string>
+    <string name="title_dashboard">图书</string>
+    <string name="title_notifications">酷狗音乐</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
